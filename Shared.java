@@ -1,3 +1,16 @@
+/*********************************************************************************
+ *                      The Breakout game that I call OutBreak                   *
+ *                      Final Project                                            *
+ *                      Programmed by Blake Lawall                               *
+ *                      12-2-17                                                  *
+ *                      Class CS200                                              *
+ *                      Instructor Christopher Harris                            *
+ *                                                                               *
+ *                      This program was originally created in                   *
+ *                      1976. It is a game where you try to get                  *
+ *                      rid of all the bricks by hitting them with               *
+ *                      a ball.                                                  *
+ *********************************************************************************/
 /************************************
  * My interface that my Objects use *
  ************************************/
