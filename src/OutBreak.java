@@ -133,7 +133,7 @@ public class OutBreak extends JPanel implements Shared, MouseMotionListener, Mou
         checkWalls();
         checkCollisions();
         g.setColor(Color.WHITE);
-        g2d.drawString( new Integer(score).toString(), APPLICATION_WIDTH - 50, 25);
+        g2d.drawString( Integer.valueOf(score).toString(), APPLICATION_WIDTH - 50, 25);
         g.setColor(Color.BLACK);
     }
     /**************************
